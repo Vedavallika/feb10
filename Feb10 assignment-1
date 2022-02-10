@@ -11,8 +11,8 @@ if s1>=75 and s2>=75 and s3>=75 and s4>=50 and s5>=50 and s6>=50:
      print('pass')
 else:
     print('fail')
-enter student no:12
-enter student name:vanitha
+enter student no:06
+enter student name:vedha
 enter group name:mstcs
 maths marks:75
 stat marks:74
